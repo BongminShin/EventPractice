@@ -16,7 +16,7 @@ class EventPractice extends Component {
                 value={this.state.message}
                 onChange={(e)=>{
                     this.setState({
-                        message:e.target.value
+                        message:e.target.value1
                     })
                 }}
                 />
